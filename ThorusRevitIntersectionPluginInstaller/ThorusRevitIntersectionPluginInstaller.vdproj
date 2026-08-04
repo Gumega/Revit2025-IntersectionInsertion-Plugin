@@ -184,7 +184,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_DEE180D847D54059BD8A0F7245836188"
             {
-            "DefaultLocation" = "8:[AppDataFolder]Autodesk\\Revit\\Addins\\2027"
+            "DefaultLocation" = "8:[AppDataFolder]Autodesk\\Revit\\Addins\\2025"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
