@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ThorusRevitIntersectionPlugin/ThorusRevitIntersectionPlugin.csproj" Id="e4b506de-4ce6-46f2-9b78-786856326a98" />
+  <Project Path="ThorusRevitIntersectionPluginInstaller/ThorusRevitIntersectionPluginInstaller.vdproj" Type="Installer">
+    <Build />
+  </Project>
+</Solution>

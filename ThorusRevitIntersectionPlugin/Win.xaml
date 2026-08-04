@@ -1,0 +1,17 @@
+﻿<Window x:Class="ThorusRevitIntersectionPlugin.Win"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ThorusRevitIntersectionPlugin"
+        mc:Ignorable="d"
+        Title="Win" Height="300" Width="400">
+    <Grid>
+        <Label Content="Structural file:" HorizontalAlignment="Left" Margin="31,20,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.144,-0.208" Width="299"/>
+        <ComboBox Name="ComboBoxStructuralFile"  HorizontalAlignment="Left" Margin="31,56,0,0" VerticalAlignment="Top" Width="299"/>
+        <Label Content="Tubes file:" HorizontalAlignment="Left" Margin="31,97,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.144,-0.208" Width="299"/>
+        <ComboBox Name="ComboBoxTubesFile" HorizontalAlignment="Left" Margin="31,133,0,0" VerticalAlignment="Top" Width="299"/>
+        <Button Name="ButtonCalculate" IsEnabled="False" Content="Calculate" HorizontalAlignment="Left" Margin="31,214,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Name="ButtonCancel" Content="Cancel" HorizontalAlignment="Left" Margin="230,214,0,0" VerticalAlignment="Top" Width="100"/>
+    </Grid>
+</Window>

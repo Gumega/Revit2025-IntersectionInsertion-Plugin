@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Lab1PlaceGroupUI": {
+      "commandName": "Project"
+    },
+    "Lab1PlaceGroupUIExecutable": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\Revit 2027\\Revit.exe"
+    }
+  }
+}
